@@ -1,0 +1,6 @@
+
+# File output name (without extension)
+OUTPUT_NAME = __name__
+
+# Libraries
+LIBS = -lws2_32 -lwsock32
